@@ -25,6 +25,8 @@ body {
   -webkit-font-smoothing: antialiased;
 
   font-family: sans-serif;
+
+  background-color: #dcdcfa;
 }
 
 img,
@@ -64,7 +66,6 @@ li {
 }
 
 .header {
-  height: 6rem;
   width: 100vw;
   max-width: 200rem;
   margin: 0 auto;
